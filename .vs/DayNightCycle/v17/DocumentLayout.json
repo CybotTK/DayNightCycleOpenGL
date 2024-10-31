@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\UniversityProjects\\DayNightCycle\\",
+  "WorkspaceRootPath": "C:\\Users\\Victor\\OneDrive\\Desktop\\Documents\\Github-DayNightCycleOpenGL\\DayNightCycleOpenGL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{04649F3A-6967-44E7-A8F7-BB1EADF17C02}|DayNightCycle\\DayNightCycle.vcxproj|C:\\UniversityProjects\\DayNightCycle\\DayNightCycle\\example.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{04649F3A-6967-44E7-A8F7-BB1EADF17C02}|DayNightCycle\\DayNightCycle.vcxproj|solutionrelative:DayNightCycle\\example.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{04649F3A-6967-44E7-A8F7-BB1EADF17C02}|DayNightCycle\\DayNightCycle.vcxproj|C:\\Users\\Victor\\OneDrive\\Desktop\\Documents\\Github-DayNightCycleOpenGL\\DayNightCycleOpenGL\\DayNightCycle\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04649F3A-6967-44E7-A8F7-BB1EADF17C02}|DayNightCycle\\DayNightCycle.vcxproj|solutionrelative:DayNightCycle\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04649F3A-6967-44E7-A8F7-BB1EADF17C02}|DayNightCycle\\DayNightCycle.vcxproj|C:\\UniversityProjects\\DayNightCycle\\DayNightCycle\\example.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{04649F3A-6967-44E7-A8F7-BB1EADF17C02}|DayNightCycle\\DayNightCycle.vcxproj|C:\\Users\\Victor\\OneDrive\\Desktop\\Documents\\Github-DayNightCycleOpenGL\\DayNightCycleOpenGL\\DayNightCycle\\example.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{04649F3A-6967-44E7-A8F7-BB1EADF17C02}|DayNightCycle\\DayNightCycle.vcxproj|solutionrelative:DayNightCycle\\example.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04649F3A-6967-44E7-A8F7-BB1EADF17C02}|DayNightCycle\\DayNightCycle.vcxproj|C:\\Users\\Victor\\OneDrive\\Desktop\\Documents\\Github-DayNightCycleOpenGL\\DayNightCycleOpenGL\\DayNightCycle\\example.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{04649F3A-6967-44E7-A8F7-BB1EADF17C02}|DayNightCycle\\DayNightCycle.vcxproj|solutionrelative:DayNightCycle\\example.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,33 +21,63 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 817,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "example.frag",
-              "DocumentMoniker": "C:\\UniversityProjects\\DayNightCycle\\DayNightCycle\\example.frag",
-              "RelativeDocumentMoniker": "DayNightCycle\\example.frag",
-              "ToolTip": "C:\\UniversityProjects\\DayNightCycle\\DayNightCycle\\example.frag",
-              "RelativeToolTip": "DayNightCycle\\example.frag",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-30T15:22:07.477Z",
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Victor\\OneDrive\\Desktop\\Documents\\Github-DayNightCycleOpenGL\\DayNightCycleOpenGL\\DayNightCycle\\main.cpp",
+              "RelativeDocumentMoniker": "DayNightCycle\\main.cpp",
+              "ToolTip": "C:\\Users\\Victor\\OneDrive\\Desktop\\Documents\\Github-DayNightCycleOpenGL\\DayNightCycleOpenGL\\DayNightCycle\\main.cpp",
+              "RelativeToolTip": "DayNightCycle\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-31T18:22:51.226Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "example.frag",
+              "DocumentMoniker": "C:\\Users\\Victor\\OneDrive\\Desktop\\Documents\\Github-DayNightCycleOpenGL\\DayNightCycleOpenGL\\DayNightCycle\\example.frag",
+              "RelativeDocumentMoniker": "DayNightCycle\\example.frag",
+              "ToolTip": "C:\\Users\\Victor\\OneDrive\\Desktop\\Documents\\Github-DayNightCycleOpenGL\\DayNightCycleOpenGL\\DayNightCycle\\example.frag",
+              "RelativeToolTip": "DayNightCycle\\example.frag",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-30T15:22:07.477Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "example.vert",
-              "DocumentMoniker": "C:\\UniversityProjects\\DayNightCycle\\DayNightCycle\\example.vert",
+              "DocumentMoniker": "C:\\Users\\Victor\\OneDrive\\Desktop\\Documents\\Github-DayNightCycleOpenGL\\DayNightCycleOpenGL\\DayNightCycle\\example.vert",
               "RelativeDocumentMoniker": "DayNightCycle\\example.vert",
-              "ToolTip": "C:\\UniversityProjects\\DayNightCycle\\DayNightCycle\\example.vert",
+              "ToolTip": "C:\\Users\\Victor\\OneDrive\\Desktop\\Documents\\Github-DayNightCycleOpenGL\\DayNightCycleOpenGL\\DayNightCycle\\example.vert",
               "RelativeToolTip": "DayNightCycle\\example.vert",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-10-30T15:22:07.768Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 369,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         }

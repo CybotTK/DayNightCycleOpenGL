@@ -6,6 +6,7 @@
 #include <GL/glew.h> // glew apare inainte de freeglut
 #include <GL/freeglut.h> // nu trebuie uitat freeglut.h
 #include "loadShaders.h"
+#include <iostream>
 
 
 //////////////////////////////////////
@@ -87,7 +88,7 @@ void DestroyShaders(void)
 
 void Initialize(void)
 {
-	glClearColor(0.2f, 0.3f, 0.3f, 1.0f); // culoarea de fond a ecranului
+	glClearColor(1.f, 1.f, 1.f, 1.0f); // culoarea de fond a ecranului(alb)
 	CreateVBO();
 	CreateShaders();
 }
