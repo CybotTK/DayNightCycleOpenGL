@@ -5,7 +5,7 @@
 #include <stdio.h>
 #include <GL/glew.h> // glew apare inainte de freeglut
 #include <GL/freeglut.h> // nu trebuie uitat freeglut.h
-#include "loadShaders.h"
+#include "loadShaders.h" // incarca shaderele in program
 #include <iostream>
 
 
